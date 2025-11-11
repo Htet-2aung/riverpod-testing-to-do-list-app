@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "356916633694",
+    "project_id": "aetherbrowser-320eb",
+    "storage_bucket": "aetherbrowser-320eb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356916633694:android:9574a5aa7363a01e8a94cf",
+        "android_client_info": {
+          "package_name": "com.aether.aetherbrowsere"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsbXvYpjzOrDYkgCj2iijAzljiX3t5qVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356916633694:android:41f6c10a5b7d6d4d8a94cf",
+        "android_client_info": {
+          "package_name": "com.example.flutter_state_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsbXvYpjzOrDYkgCj2iijAzljiX3t5qVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
